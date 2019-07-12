@@ -1,0 +1,36 @@
+body{
+background-color:#E6C3F1;
+}
+
+.navbar {
+  display:flex;
+  flex-direction: row;
+  font-size: 20px;
+  padding:10px;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.navbar >li{
+  font-size: 20px;
+  padding:10px;
+  text-align:center;
+  border: 2px solid pink;
+  flex: 1;
+
+
+.ctext {
+  text-align: center;
+}
+.container {
+  display:flex;
+}
+.container > div {
+  padding: 10px;
+  text-align: left;
+  font-size: 1em;
+  background-color:#E6C3F1;
+}
+li{
+  display: inline;
+}
