@@ -1,0 +1,74 @@
+body{
+background-color:#E6C3F1;
+background-image: url("background.jpg")
+}
+
+p {
+  font-size:20px;
+}
+
+h1{
+  color:purple;
+  text-align: center;
+}
+
+h3{
+  color:purple;
+  text-align:center;
+}
+
+.container > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+  flex: 1;
+  justify-content: space-around;
+}
+
+.
+
+.navigation >div{
+  padding:5px 70px;
+  width: 165px;
+  text-align:center;
+  font-size:2em;
+  color: palevioletred;
+  overflow: hidden;
+  float: left;
+  display: block;
+  border-style: soild;
+  border-color: rosybrown;
+  flex: 1;
+  justify-content: space-around;
+}
+
+.oakland3{
+  text-align: center;
+}
+
+.oakland2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navigation a:hover {
+  background-color: white;
+}
+
+.navigation > div:nth-child(1) {
+  background-color: aliceblue;
+}
+
+.navigation > div:nth-child(2) {
+  background-color: aliceblue;
+}
+
+.navigation > div:nth-child(3) {
+  background-color: aliceblue;
+}
+
+.navigation > div:nth-child(4) {
+  background-color: aliceblue;
+}
