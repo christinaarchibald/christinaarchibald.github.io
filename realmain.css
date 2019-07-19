@@ -17,6 +17,11 @@ h3{
   text-align:center;
 }
 
+h4{
+  color:purple;
+  text-align:center;
+}
+
 .container > div {
   padding: 10px;
   text-align: center;
@@ -26,7 +31,6 @@ h3{
   justify-content: space-around;
 }
 
-.
 
 .navigation >div{
   padding:5px 70px;
